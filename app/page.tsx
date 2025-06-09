@@ -119,7 +119,7 @@ export default function CategoryListingPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center space-y-4">
             <h1 className="text-3xl md:text-4xl font-bold">Find the Perfect Photographer</h1>
-            <p className="text-lg opacity-90">Discover talented photographers for your special moments</p>
+            <p className="text-lg opacity-90">Discovery talented photographers for your special moments</p>
             <div className="max-w-2xl text-black mx-auto">
               <SearchBar
                 value={searchQuery}

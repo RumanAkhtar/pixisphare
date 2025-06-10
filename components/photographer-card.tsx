@@ -64,7 +64,7 @@ export function PhotographerCard({ photographer }: PhotographerCardProps) {
           </div>
 
           <Link href={`/photographer/${photographer.id}`} className="block">
-            <Button className="w-full bg-orange-600 hover:bg-orange-700">View Profile</Button>
+            <Button className="w-full bg-orange-600 hover:bg-orange-700">View Profiles</Button>
           </Link>
         </div>
       </CardContent>
